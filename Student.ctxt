@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name\ library
+comment0.target=Student(java.lang.String,\ Library)
+comment0.text=\r\n\ Instantiates\ a\ new\ student,\ name\ is\ passed\ into\ studentName\ along\ with\ library\ being\ passed\ into\ studentJoin\ and\ the\ amount\ of\ books\ is\ set\ to\ null.\r\n\r\n\ @param\ name\ the\ name\r\n\ @param\ library\ the\ library\r\n
+comment1.params=
+comment1.target=boolean\ finishedStudies()
+comment1.text=\r\n\ Finished\ studies,\ returns\ true\ if\ the\ student\ has\ finished\ otherwise\ false.\r\n\r\n\ @return\ true,\ if\ successful\r\n
+comment2.params=
+comment2.target=void\ study()
+comment2.text=\r\n\ Invokes\ Study.\ Forces\ the\ student\ to\ study\ if\ they\ do\ not\ have\ a\ book,\ read\ next\ chapter\ if\ they\ have\ a\ book\ and\ not\ finished\ itor\ close\ the\ book\ and\ return\ it\ if\ they\ \r\n\ have\ finished\ the\ book.\r\n\r\n
+comment3.params=
+comment3.target=void\ describe()
+comment3.text=\r\n\ Prints\ out\ a\ condition\ statements.\ If\ the\ student\ does\ not\ have\ a\ book,\ a\ statement\ if\ \ student\ has\ a\ book\ \ along\ with\ a\ description\ of\ the\ textbook,\ ie\:\ Title,\ Chapters\ left\ +\ read.\ \r\n\ Otherwise\ prints\ out\ Book\ has\ been\ finished\ if\ finished\ is\ true.\r\n\ \r\n
+numComments=4

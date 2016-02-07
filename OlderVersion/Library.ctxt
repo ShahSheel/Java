@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=Library(int)
+comment0.text=\ Constructor\ -\ User\ enters\ the\ size\ which\ sets\ the\ array\ size.\ Array\ is\ then\ filled\ up\ with\ books\ using\ a\ for\ loop\r\n\ \r\n
+comment1.params=
+comment1.target=LibraryCard\ issueCard()
+comment1.text=\ Method\ Issues\ a\ card\ by\ called\ the\ LibraryCard\ method\r\n\ \r\n
+comment2.params=card
+comment2.target=TextBook\ borrowBook(LibraryCard)
+comment2.text=\ Method,\ borrowing\ a\ book\ by\ called\ the\ Library\ card\ method\r\n\ \r\n
+comment3.params=book
+comment3.target=void\ returnBook(TextBook)
+comment3.text=\ Returning\ a\ book,\ nextbook\ decreases\ and\ is\ then\ passed\ to\ book.\r\n\ \r\n
+comment4.params=
+comment4.target=void\ describe()
+comment4.text=\ Describes\ how\ many\ books\ and\ library\ cards\ have\ been\ taken\ out.\r\n\ \r\n
+numComments=5

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=card\ maxBooks
+comment0.target=LibraryCard(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ LibraryCard\r\n
+comment1.params=
+comment1.target=void\ swipe()
+comment1.text=\ Incrememets\ borrow\ by\ one\r\n\ \r\n
+comment2.params=
+comment2.target=boolean\ expired()
+comment2.text=\ If\ borrow\ is\ greater\ than\ the\ maxBooks\ value\ then\ it\ returns\ card\ is\ expired.\ \r\n\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getCardRef()
+comment3.text=\ Returns\ the\ cardID\ of\ card\ \r\n\ \ \r\n
+comment4.params=
+comment4.target=void\ describe()
+comment4.text=\ Prints\ the\ library\ card\ ID\ and\ how\ many\ books\ on\ left\ the\ user\ is\ allowed\ to\ take\ out\r\n\r\n
+numComments=5

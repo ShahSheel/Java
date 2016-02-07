@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=numStudents\ numTextbooks
+comment0.target=College(int,\ int)
+comment0.text=\r\n\ Instantiates\ a\ new\ college.\ Initializing\ library\ with\ amount\ of\ textbooks\ and\ adds\ the\ students.\r\n\r\n\ @param\ numStudents\ the\ num\ students\r\n\ @param\ numTextbooks\ the\ num\ textbooks\r\n
+comment1.params=
+comment1.target=void\ nextStep()
+comment2.params=nSteps
+comment2.target=void\ runCollege(int)
+comment2.text=\r\n\ Run\ college\ and\ calls\ nextStep\ where\ it\ prints\ statements.\ If\ student\ size\ is\ zero\ otherwise\ gets\ the\ student\ \r\n\ forces\ them\ to\ study\ till\ they\ have\ finished\ and\ removes\ them\ from\ student\ size.\r\n\r\n\ @param\ nSteps\ the\ n\ steps\r\n
+comment3.params=
+comment3.target=void\ describe()
+comment3.text=\r\n\ Prints\ out\ the\ student\ size\ along\ with\ library\ describe.\ This\ shows\ amount\ of\ borrowers\ and\ amount\ of\ books.\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ The\ main\ method.\ User\ can\ enter\ student\ size,\ textbooks\ amount\ and\ nsteps.\ \r\n\r\n\ @param\ args\ the\ arguments\r\n
+numComments=5
